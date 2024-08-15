@@ -3,7 +3,7 @@
 # Navigate to the folder containing the FLAC files
 cd /directory/to/flac
 
-# Create a directory to store the converted files (optional)
+# Create a directory to store the converted files
 mkdir -p alac_files
 
 # Loop through all FLAC files in the folder and convert them to ALAC
